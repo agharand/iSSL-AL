@@ -1,21 +1,31 @@
-### Deep Active Learning Framework based on Self-supervised Learning for Image Classification
-![iSSL_Al methodology]('methodology.png')
+# Deep Active Learning Framework based on Self-supervised Learning (iSSL-AL) for Image Classification
 
+iSSL-AL is a novel Active Learning framework that combines self-supervised learning to ensure informative yet diverse samples.
 
 ## Dependencies and Installation
-# git clone this repository
-git clone https://github.com/x/SSL_AL
+
+
+```bash
+git clone https://github.com/agharand/iSSL-AL
 cd ISSL_AL
+pip install -r requirements.txt
+```
 
-# create new env
-''' virtualenv ISSL_AL python=3.8 
-source ISSL_AL/bin/activate'''
+## Usage
 
-# install python dependencies
-pip3 install -r requirements.txt
+```
+ python inference.py 
+```
 
-# License
-This project is licensed under NTU S-Lab License 1.0. Redistribution and use should follow this license.
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 # Contact
-If you have any questions, please feel free to reach me out at rhagha20@cit.just.edu.jo.
+If you have any questions, please feel free to reach out at rhagha20@cit.just.edu.jo.
