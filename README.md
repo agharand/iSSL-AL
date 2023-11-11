@@ -1,5 +1,5 @@
 ### Deep Active Learning Framework based on Self-supervised Learning for Image Classification
-![iSSL_Al methodology](r'\iSSL_AL\methodology.png')
+![iSSL_Al methodology]('methodology.png')
 
 
 ## Dependencies and Installation
