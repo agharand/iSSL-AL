@@ -8,8 +8,8 @@ git clone https://github.com/x/SSL_AL
 cd ISSL_AL
 
 # create new env
-virtualenv ISSL_AL python=3.8 
-source ISSL_AL/bin/activate
+''' virtualenv ISSL_AL python=3.8 
+source ISSL_AL/bin/activate'''
 
 # install python dependencies
 pip3 install -r requirements.txt
